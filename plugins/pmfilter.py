@@ -189,8 +189,7 @@ async def next_page(bot, query):
                    )
         btn.insert(0,
                    [
-                       InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                       
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
 
@@ -210,8 +209,8 @@ async def next_page(bot, query):
                    ]
                    )
         btn.insert(0, [
-            InlineKeyboardButton(
-                "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+           
+            
             InlineKeyboardButton("Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
         ])
     if ULTRA_FAST_MODE:
@@ -469,8 +468,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
                    )
         btn.insert(0,
                    [
-                       InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                       
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
                    ])
@@ -488,8 +486,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
                    )
         btn.insert(0,
                    [
-                       InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                      
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
 
@@ -628,8 +625,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
                    )
         btn.insert(0,
                    [
-                       InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                       
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
                    ]
@@ -647,8 +643,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
                    ])
         btn.insert(0,
                    [
-                       InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                    
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
                    ])
@@ -783,8 +778,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
     btn.insert(
         0,
         [
-            InlineKeyboardButton(
-                "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+           
             InlineKeyboardButton("Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}"),
         ],
     )
@@ -1456,10 +1450,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🔰 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🔰', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton(' ʜᴇʟᴘ 📢', callback_data='help'),
-                    InlineKeyboardButton(' ᴀʙᴏᴜᴛ 📖', callback_data='about')
-                ],[
-                    InlineKeyboardButton('ᴛᴏᴘ sᴇᴀʀᴄʜɪɴɢ ⭐', callback_data="topsearch"),
-                     InlineKeyboardButton('ᴜᴘɢʀᴀᴅᴇ 🎟', callback_data="premium_info"),
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))
@@ -1835,8 +1825,7 @@ async def auto_filter(client, msg, spoll=False):
                        )
             btn.insert(0,
                        [
-                           InlineKeyboardButton(
-                               "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                          
                            InlineKeyboardButton(
                                "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
 
@@ -1855,8 +1844,7 @@ async def auto_filter(client, msg, spoll=False):
                        )
             btn.insert(0,
                        [
-                           InlineKeyboardButton(
-                               "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium"),
+                         
                            InlineKeyboardButton(
                                "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}")
                        ])
