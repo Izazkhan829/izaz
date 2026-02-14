@@ -227,10 +227,10 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ✯  ━━━━━  ✧  ━━━━  ✧  ━━━━━ ✯
 Join our Backup/New Movies Group 🎬
-➠ https://t.me/dgrequest
-➠ https://t.me/dgrequest
+➠ https://t.me/DG_Movies_Corner
+➠ https://t.me/DG_Movies_Corner
 
-➠BOT Updates: <a href="https://t.me/cinenmahub">FlimZy 🍿💥</a>
+➠BOT Updates: <a href="https://t.me/DG_Movies_Corner">FlimZy 🍿💥</a>
 
 <a 🔰Join  Share & Support</a>"""
 
